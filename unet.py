@@ -2,7 +2,6 @@ from keras import backend as K
 from keras.layers import Activation
 from keras.layers import Input
 from keras.layers import BatchNormalization
-#from keras.layers import Dropout
 from keras.layers.advanced_activations import PReLU
 from keras.layers.convolutional import Conv2D
 from keras.layers.convolutional import MaxPooling2D
